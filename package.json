@@ -1,0 +1,19 @@
+{
+  "name": "javascriptexample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:sass":"node-sass --include-path scss sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridvansunger/JavaScriptExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridvansunger/JavaScriptExample/issues"
+  },
+  "homepage": "https://github.com/ridvansunger/JavaScriptExample#readme",
+  "description": ""
+}
